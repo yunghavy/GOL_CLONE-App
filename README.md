@@ -11,7 +11,8 @@
 ![1awaw](https://user-images.githubusercontent.com/68750537/224722562-8b9514a3-fb44-455d-9019-b6be41e0b956.png)
 
 
-# Recommended next steps:
+# Next steps:
+## **To run the preview App**
 Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
 ​
 ### To preview and run the project on your device:
