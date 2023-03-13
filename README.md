@@ -8,6 +8,7 @@
 ### This is just a sample of the clone design before diving inside after registration
 * Below are some of the preview samples of the design *
 
+![1awaw](https://user-images.githubusercontent.com/68750537/224722562-8b9514a3-fb44-455d-9019-b6be41e0b956.png)
 
 
 # Recommended next steps:
